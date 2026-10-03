@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local captures / raw videos
+captures/
+
+# Local datasets and generated preprocessing data
+data/
+
+# Legacy / experimental scripts
+legacy/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local reports
+reports/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
